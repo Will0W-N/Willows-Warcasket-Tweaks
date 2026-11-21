@@ -96,3 +96,10 @@ Changes apply immediately, and each section has a reset option if you want to go
 **GitHub:** [Will0W-N](https://github.com/Will0W-N)
 
 If something isn't being detected, you run into a bug, or you have an idea for something worth adding, feel free to open an issue or get in touch.
+
+
+<img width="878" height="567" alt="image" src="https://github.com/user-attachments/assets/d13e6535-0b9e-4dbe-9335-b6304d4c0515" />
+<img width="880" height="568" alt="image" src="https://github.com/user-attachments/assets/5004cac4-2a1a-4468-ac70-b9f281c35b16" />
+<img width="881" height="614" alt="image" src="https://github.com/user-attachments/assets/e4cf9fe1-fef3-42b8-b9bb-223bde2ef355" />
+<img width="877" height="552" alt="image" src="https://github.com/user-attachments/assets/b8993113-bd8a-4ba8-94d6-4b2ce66e0fdb" />
+<img width="474" height="580" alt="image" src="https://github.com/user-attachments/assets/d1683577-a22e-400a-9210-8c3f57149b91" />
