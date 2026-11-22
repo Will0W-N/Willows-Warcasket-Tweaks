@@ -1,105 +1,100 @@
-# Willow's Warcasket Tweaks
+Willow's Warcasket Tweaks
+A comprehensive, centralized RimWorld mod settings tool and framework that fine-tunes warcasket armor, barriers, melee damage, environmental protections, work types, and Anomaly ghoul integration. Designed to eliminate mod bloat by consolidating major warcasket utility features into a single, seamless experience.
 
-A mod settings tool for tweaking Warcasket armor, barriers, and melee damage when Combat Extended's default values just aren't cutting it.
+Features
+Core Adjustments & Combat
+Global & Per-Item Stats: Global multipliers and individual apparel editing for Sharp armor, Blunt armor, Barrier capacity, and Barrier recharge rate.
 
-Warcaskets are a pretty permanent commitment. I wanted their stats to actually feel worth it, so this mod lets you take matters into your own hands.
+Melee Overrides: Unarmed melee damage overrides (Sharp and Blunt values) for pawns wearing warcasket apparel.
 
----
+Combat Extended Integration: Built natively around Combat Extended while automatically detecting and adapting to warcaskets from Vanilla Factions Expanded (VFE) – Pirates and major addon mods.
 
-## Features
+Foundry Preview Integration: Live loadout preview inside the VFE Pirates warcasket customization dialog, showing effective armor, shield specs, CE bulk, or vanilla mass dynamically.
 
-- Global multipliers for Sharp armor, Blunt armor, Barrier capacity, and Barrier recharge rate.
-- Individual armor editing for specific Warcaskets and variants.
-- Automatic detection of Warcaskets from VFE Pirates and supported addon mods.
-- Unarmed melee damage overrides for Warcasket wearers.
-- Support for **Entomb Your Ghoul – in Warcasket**, including Ghoul damage and movement speed.
-- Searchable, expandable settings organized by mod and Warcasket type.
-- Reset buttons to restore default values.
+New in Version 1.1.0
+Anomaly Ghoul Entombment & Stats: Built-in integration allowing Ghouls to be entombed into VFE Pirates warcaskets via a clean Harmony patch, alongside dedicated configuration for Ghoul unarmed damage and movement speed (defaulting to 4.6 cells/second).
 
-**Supported RimWorld versions:** 1.6 and 1.7
+Environmental & Vision Protection:
 
----
+Tiered warcasket vision protection: Spacer/advanced tier warcaskets ignore darkness, fog, and weather accuracy penalties (including Vanilla Events Expanded dust storms), while base shells receive no global weather immunity.
 
-## Requirements
+Eye Protection: Warcasket helmets completely block environmental eye hediffs (sand, dirt, mud, gravel, water) and suppress corresponding combat-log text/icons.
 
-- Harmony
-- Vanilla Factions Expanded – Pirates
-- Combat Extended
+Temperature & Vacuum Resistance: Integrated standalone temperature and vacuum-resistance adjustment features.
 
-This mod is built around Combat Extended.
+Comprehensive Work Tab: Full work-type management organized beneath relevant skills with tooltips, individual work-giver subtasks, and independent toggles for hauling, cleaning, mining, crafting, and more (while tracked Ghouls remain strictly non-working).
 
-### Supported Addons
+V.O.I.D. Compatibility & Presets: Specialized presets making warcaskets viable for players utilizing the V.O.I.D. faction mod.
 
-Warcaskets from most major addon mods should be detected automatically, including:
+Bug Fixes & Usability: Resolved issues with base RHA/MPA values altering upon equipment removal and fixed shield tracking bugs. Added quick-reset buttons and neatly aligned settings UI rows (Listing_Standard).
 
-- More Warcaskets
-- Eventide
-- Toxin
-- Shipcracker
-- Medic
-- Overlord
-- Cardboard
-- WarCasket Expanded
+Requirements
+RimWorld Versions: 1.6 or 1.7 (Separate build targets provided).
 
-Other Warcasket mods may work too, even if they aren't specifically listed.
+Core Dependencies:
 
-### Optional Compatibility
+Harmony (brrainz.harmony)
 
-- Entomb Your Ghoul – in Warcasket
+Vanilla Factions Expanded – Pirates (OskarPotocki.VFE.Pirates)
 
----
+Combat Extended (CETeam.CombatExtended)
 
-## How It Works
+Supported Addons & Auto-Detection
+The mod automatically detects and scales stats for warcaskets from virtually all major addon mods, including:
 
-Everything is handled through the mod settings menu, with four tabs for different parts of the system.
+More Warcaskets
 
-### General
+Eventide
 
-Global multipliers that affect all detected Warcaskets.
+Toxin
 
-- Sharp Armor
-- Blunt Armor
-- Barrier Max Capacity
-- Barrier Recharge Rate
+Shipcracker
 
-Want Warcaskets to be tougher across the board? Start here.
+Medic
 
-### Armor
+Overlord
 
-Lists detected Warcasket mods and their individual variants. Expand a category to find specific armor pieces and adjust their values without affecting everything else.
+Cardboard
 
-### Melee
+WarCasket Expanded
 
-Lets you override the unarmed melee damage of pawns wearing Warcasket apparel, with separate Sharp and Blunt damage values.
+Mechlord Warcasket
 
-### Ghouls
+Alpha Mechs (Mech Master Warcasket)
 
-Only available with **Entomb Your Ghoul – in Warcasket**.
+The Empire of Straeax (Netherion Warcasket)
 
-Adjust the unarmed damage and movement speed of Ghouls while they're inside a Warcasket.
+Ancient Arsenal & Imperial Arsenal (Royal Warcasket variants)
 
-Changes apply immediately, and each section has a reset option if you want to go back to its defaults.
+Incompatibility Notice
+Because Willow's Warcasket Tweaks (v1.1.0) fully incorporates and expands upon their features natively to prevent mod bloat, it is strictly incompatible with the following standalone mods and patches (do not run them together):
 
----
+Farhan's Warcasket Tweaks (Vacuum and Temperature)
 
-## Notes
+Entomb your ghoul - in Warcasket
 
-- This is primarily a Combat Extended mod. Vanilla and Yayo's Combat support might happen down the line if there's enough interest.
-- Some settings use multipliers, while others directly override values.
-- Auto-detection covers most Warcasket apparel, including items added by smaller addon mods, but something may slip through.
+Warcaskets can haul!
 
----
+VFE Pirates - Hardworking Warcaskets
 
-## Feedback & Bug Reports
+Warcaskets can work!
 
-**Discord:** `@willow627`  
-**GitHub:** [Will0W-N](https://github.com/Will0W-N)
+Warcaskets temperature patch
 
-If something isn't being detected, you run into a bug, or you have an idea for something worth adding, feel free to open an issue or get in touch.
+Un-tested / Use at Your Own Risk: Warcaskets: Adeptus Astartes (Continued) and Ancient Arsenal: Warcaskets (Continued).
 
+Settings Menu Breakdown
+The in-game options menu utilizes clean, organized vanilla RimWorld UI patterns:
 
-<img width="878" height="567" alt="image" src="https://github.com/user-attachments/assets/d13e6535-0b9e-4dbe-9335-b6304d4c0515" />
-<img width="880" height="568" alt="image" src="https://github.com/user-attachments/assets/5004cac4-2a1a-4468-ac70-b9f281c35b16" />
-<img width="881" height="614" alt="image" src="https://github.com/user-attachments/assets/e4cf9fe1-fef3-42b8-b9bb-223bde2ef355" />
-<img width="877" height="552" alt="image" src="https://github.com/user-attachments/assets/b8993113-bd8a-4ba8-94d6-4b2ce66e0fdb" />
-<img width="474" height="580" alt="image" src="https://github.com/user-attachments/assets/d1683577-a22e-400a-9210-8c3f57149b91" />
+General: Global multipliers for Sharp armor, Blunt armor, Barrier capacity, and Barrier recharge rate.
+
+Armor: Detailed sub-categories for detected warcasket mods and specific variants, featuring quick-reset profiles (including a 1.35x suggested balanced profile and a 1.75x V.O.I.D. preset).
+
+Melee: Custom unarmed sharp and blunt damage configurations for human warcasket wearers.
+
+Environment / Work / Ghouls: Toggle environmental vision shields, temperature/vacuum settings, job-type permissions grouped by skill, and Ghoul-specific combat/movement parameters.
+
+Feedback & Bug Reports
+If you encounter detection issues, bugs, or have suggestions for future improvements:
+
+Discord: @willow627
