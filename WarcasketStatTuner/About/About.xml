@@ -4,7 +4,7 @@
   <author>Willow</author>
   <url>https://github.com/Will0W-N/Willows-Warcasket-Tweaks</url>
   <packageId>Willow.WarcasketTweaks</packageId>
-  <modVersion>1.0.1</modVersion>
+  <modVersion>1.1.0</modVersion>
   <supportedVersions>
     <li>1.6</li>
     <li>1.7</li>
@@ -16,7 +16,6 @@
     <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
     <li>OskarPotocki.VFE.Pirates</li>
     <li>CETeam.CombatExtended</li>
-    <li>wareware.Entombyourghoul.inWarcasket</li>
     <li>PriestOfFern.MoreWarcaskets</li>
     <li>notdvd.eventide</li>
     <li>Aoba.WarCasket</li>
@@ -26,6 +25,14 @@
     <li>armorchin.cardboardwarcasket</li>
     <li>shunter.overlordwarcasket</li>
   </loadAfter>
+  <incompatibleWith>
+    <li>Kimo.Warcaskets.Temperature</li>
+    <li>FluffyTowels.warcasketworkpatch</li>
+    <li>FluffyTowels.warcaskethaulpatch</li>
+    <li>wareware.Entombyourghoul.inWarcasket</li>
+    <li>dmp.vfepirates.hardworkingwarcaskets</li>
+    <li>qiam.warcaskettweaks</li>
+  </incompatibleWith>
   <modDependencies>
     <li>
       <packageId>brrainz.harmony</packageId>
@@ -39,7 +46,7 @@
       <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2723801948</steamWorkshopUrl>
     </li>
   </modDependencies>
-  <description>Edit stats of virtually any warcasket apparel. Supports all major warcasket addons with auto-detection for smaller or newer ones, full Combat Extended compatibility, and Entomb Your Ghoul support.
+  <description>Edit stats of virtually any warcasket apparel. Supports all major warcasket addons with auto-detection for smaller or newer ones, full Combat Extended compatibility, Anomaly Ghoul entombment into VFE Pirates warcaskets, and configurable temperature, vacuum resistance, work, hauling, and cleaning tweaks. The standalone Ghoul-entombment, temperature, work, and haul patches are incompatible because their features are integrated here.
 
     Please contact me on Discord if you have any questions, feedback, or suggestions:
     Discord: @willow627
