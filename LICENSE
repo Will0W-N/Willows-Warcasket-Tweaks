@@ -1,21 +1,23 @@
-MIT License
+The Willow 30-Day Permission License (W30PL)
 
-Copyright (c) 2026 Will0W-N
+Copyright (c) 2026 Willow (Will0W-N) 
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission to use, copy, modify, or distribute this software and its assets is NOT granted by default. 
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Requesting Permission
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. Contact: You must contact the copyright holder via Discord at @willow627 (preferred) or by email at Willownokstella@gmail.com, describing how you intend to use the project.
+2. Valid Proof of Contact: The 30-day response window only begins if you send a message via one of the exact methods listed above and retain verifiable proof of delivery (such as a timestamped Discord DM or sent email receipt). Messages sent to other platforms, accounts, or public comments do not count.
+3. Denial: If the copyright holder explicitly denies your request, you may not use the project.
+4. Approval: If the copyright holder explicitly approves your request, you may use the project under the agreed terms.
+5. 30-Day Timeout: If the copyright holder does not respond within thirty (30) calendar days of receiving a valid request, permission is automatically granted to use, copy, modify, publish, and sell the project or derivative works, provided you meet all attribution conditions below.
+
+2. Attribution & Ownership Conditions
+
+-Credit: You must give clear, visible credit to **Willow (Will0W-N)** as the original creator in your project description, credits, or repository (e.g., on the Steam Workshop page and in the mod files).
+-Steam Workshop Contributor: If you publish this mod or any derivative/continuation of it to the Steam Workshop, you must add the holder as a Contributor (friend code provided on request) on the Steam Workshop page so the original creator can stay connected to the project. *(Note: You may need to send a Steam friend request to add a contributor; if the copyright holder does not accept within 14 days, listing clear text credit in the description satisfies this requirement.)*
+-No False Authorship: You may not claim original authorship of the base mod or its assets, even if modified.
+
+3. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
