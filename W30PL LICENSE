@@ -1,0 +1,38 @@
+The Willow 30-Day Permission License (W30PL) 
+
+Copyright (c) 2026 Willow (Will0W-N) 
+
+Permission to use, copy, modify, or distribute this software and its assets is NOT granted by default. (Note: Standard GitHub repository forking is permitted under GitHub's Terms of Service, provided forks are not distributed or published publicly without meeting the conditions of this license.) 
+
+1. External Add-ons, Patches & Retextures (No Permission Required)
+
+1.1 Standalone Patches & Overhauls: You are freely permitted to create, publish, and distribute standalone mods that affect or modify this mod from the outside without copying its core files. This includes compatibility patches, performance patches, and texture or visual updates (similar to Vanilla Textures Expanded).
+1.2 Appreciation for Contact: Permission is automatically granted for these external add-ons, though sending a quick message via Discord (@willow627) to show off what you made is still appreciated.
+1.3 Attribution: External add-ons must clearly list this mod as a dependency or original work and may not claim authorship of the base mod. 
+
+1. Private & Small-Group Modifications (No Permission Required)
+
+2.1 Personal Use: You are freely permitted to download, modify, and use this mod for yourself or privately within a small friend group (e.g., for a private multiplayer session or personal vibe tweaks) without waiting for approval.
+2.2 Notification Requested: While approval is not gatekept for private tweaks, please send a quick message via Discord (@willow627) to let the copyright holder know what you changed, as they would genuinely love to hear about it.
+2.3 No Public Uploads: Private modifications made under Section 2 may NOT be uploaded, published, or distributed publicly (including on Steam Workshop, GitHub releases, Discord servers, or third-party mod sites) without following Section 3. 
+
+1. Requesting Permission for Public Forks & Continuations
+
+3.1 Contact: To publicly publish a derivative, continuation, or fork that redistributes this mod's files or assets, you must contact the copyright holder via Discord at @willow627 (strongly preferred) or by email at Willownokstella@gmail.com, describing which mod you want to use and what meaningful changes you plan to make.
+3.2 Valid Proof of Contact: The 30-day response window only begins once you send a direct message or email containing your request and retain verifiable proof of delivery (such as a timestamped screenshot of an unanswered Discord DM or a sent email receipt). Public comments or messages on other platforms do not count.
+3.3 What Counts as Approval: Accepting a friend request, accepting a message request, or replying to ask questions does NOT count as approval. Explicit approval requires clear written confirmation from the copyright holder (e.g., "Yes, I give you permission to use [Mod Name] in accordance with my license").
+3.4 Denial: If the copyright holder explicitly denies your request, you may not publicly upload or distribute the project.
+3.5 30-Day Timeout: If the copyright holder does not provide an explicit approval or denial within thirty (30) calendar days of receiving a valid request, permission is automatically granted to use, copy, modify, publish, and monetize the project or derivative works, provided you follow all conditions in Section 4. 
+
+1. Attribution, Documentation & Quality Conditions
+
+4.1 Meaningful Changes Only: Public forks or continuations must introduce substantial, meaningful changes, features, or updates. Re-uploading the mod verbatim or with trivial or cosmetic-only tweaks (repacking) is strictly prohibited.
+4.2 Mandatory Changelog & About.xml Documentation: You must update the mod's About.xml (and public mod description) to clearly document what you added, changed, or removed. Any new content, features, or text added to a derivative work must be explicitly attributed to you so it cannot be mistaken for the original creator's work.
+4.3 Credit: You must give clear, visible credit to Willow (Will0W-N) as the original creator in your About.xml, project description, credits, and repository.
+4.4 Steam Workshop Contributor: If you publish a derivative or continuation to the Steam Workshop, you must add the copyright holder as a Contributor (Steam friend code provided on request) so the original creator stays connected to the project. If the copyright holder does not accept your Steam friend request within 14 days, listing clear text credit in the Workshop description satisfies this requirement.
+4.5 No False Authorship: You may not claim original authorship of the base mod or its assets, even if modified.
+4.6 Revocation: Any permission granted (explicitly or via the 30-day timeout) is immediately void if you violate any condition in Section 4. 
+
+1. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
