@@ -11,9 +11,7 @@
     <TargetFramework Condition="'$(RimWorldVersion)' == '1.7'">net10.0</TargetFramework>
     <OutputPath Condition="'$(RimWorldVersion)' == '1.6'">..\1.6\Assemblies\</OutputPath>
     <OutputPath Condition="'$(RimWorldVersion)' == '1.7'">..\1.7\Assemblies\</OutputPath>
-    <!-- Optional: override with -p:RimWorldManagedPath="..." -->
     <RimWorldManagedPath Condition="'$(RimWorldManagedPath)' == ''">..\..\..\RimWorldWin64_Data\Managed</RimWorldManagedPath>
-    <!-- Optional: override with -p:HarmonyPath="...\0Harmony.dll" -->
     <HarmonyPath Condition="'$(HarmonyPath)' == ''">..\..\2009463077\1.6\Assemblies\0Harmony.dll</HarmonyPath>
   </PropertyGroup>
 
