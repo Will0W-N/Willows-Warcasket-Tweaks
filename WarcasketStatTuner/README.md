@@ -43,5 +43,3 @@ Version 1.1.0 is not explicitly tested or guaranteed compatible with:
 - [Ancient Arsenal: Warcaskets (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3576420572)
 
 Use this mod with those two addons at your own risk.
-
-The project has separate build targets for RimWorld 1.6 and 1.7. Both builds are still a work in progress but have been tested.
